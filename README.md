@@ -23,14 +23,14 @@ HTTP Method : POST
 
 Request: 
 {
-"order":{
-  "id":103,
-  "name":"Mobile",
-  "qty":1,
-  "price":8000
+    "order":{
+    "id":103,
+    "name":"Mobile",
+    "qty":1,
+    "price":8000
 
-},
-"payment":{}
+  },
+  "payment":{}
 }
         
 Response: 
