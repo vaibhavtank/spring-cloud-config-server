@@ -10,7 +10,7 @@ Order to up microservices is :
 
 Note:- You can see in console that in each and every console of microservices config from server at : http://localhost:9196 because there we have set common property.
 
-Go to http://localhost:8761
+Now go to http://localhost:8761
 
 You will see status of all 4 microservices(It must up).
 
